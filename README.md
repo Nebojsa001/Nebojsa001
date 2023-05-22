@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nebojsa001
 - 👀 I’m interested in web-dev
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
